@@ -10,6 +10,6 @@
   - Computer Security
   - Agile Methods
   - Testing and Debugging 
-- 📫 How to reach me ...
+- 📫 How to reach me : olivier.maraval@edu.univ-fcomte.fr
 - 😄 Pronouns: YOU🫀
 - ⚡ Fun fact: he average person walks the equivalent of three times around the world in their lifetime while going to the bathroom.
