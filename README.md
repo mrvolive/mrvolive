@@ -9,13 +9,7 @@
   - DevOps and Deployment
   - Computer Security
   - Agile Methods
-  - Testing and Debugging
-- 💞️ I’m looking to collaborate on 
+  - Testing and Debugging 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-mrvolive/mrvolive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😄 Pronouns: YOU🫀
+- ⚡ Fun fact: he average person walks the equivalent of three times around the world in their lifetime while going to the bathroom.
