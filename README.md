@@ -1,6 +1,6 @@
 ![wordart](https://github.com/mrvolive/mrvolive/assets/144356778/82d0dd61-ceb9-4272-8a10-47c9ebf273f5)
 ---
-<html><p style="text-align: center;">Hello</p></html>
+<p align=center>Hello</p>
 
 # Who am i 
 
