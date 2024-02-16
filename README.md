@@ -2,8 +2,8 @@
 ---
 
 <p align=center>👨‍🎓 Olivier - 28 years old student in computer science</p>
-<p>🐼 Interested in IoT (Internet of Things) and Data</p>
-<p>🎮 Currently planning on creating a Playdate Game</p>
+<p align=center>🐼 Interested in IoT (Internet of Things) and Data</p>
+<p align=center>🎮 Currently planning on creating a Playdate Game</p>
 
 
 # Visitor Count
