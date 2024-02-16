@@ -1,5 +1,5 @@
 ![wordart](https://github.com/mrvolive/mrvolive/assets/144356778/82d0dd61-ceb9-4272-8a10-47c9ebf273f5)
-<p align=center>**Visitor :** ![Visitor Count](https://profile-counter.glitch.me/mrvolive/count.svg)</p>
+<p align=center> ![Visitor Count](https://profile-counter.glitch.me/mrvolive/count.svg) </p>
 ---
 
 <p align=center>👨‍🎓 Olivier - 28 years old student in computer science</p>
