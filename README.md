@@ -1,1 +1,1 @@
-![Visitor Count](https : //profile-counter.glitch.me/mrvolive/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mrvolive/count.svg)
